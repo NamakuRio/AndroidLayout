@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Layout</string>
+    <string name="go_ride">Go-Ride</string>
+    <string name="go_food">Go-Food</string>
+    <string name="go_mart">Go-Mart</string>
+    <string name="go_send">Go-Send</string>
+</resources>
